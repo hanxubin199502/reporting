@@ -13,7 +13,7 @@
   "dependencies": {
     "@xkeshi/vue-qrcode": "xkeshi/vue-qrcode",
     "axios": "^0.19.0",
-    "highcharts": "^7.1.2",
+    "highcharts": "^7.2.2",
     "iview": "^3.4.2",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
